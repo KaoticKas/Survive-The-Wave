@@ -22,4 +22,4 @@ Although the project works well for the functionality provided, since This proje
 - Add more types of enemies
 - As stated above but with weapon types/ upgrades
 
-these are some of the issues of my game and its Game Design, which , if given the time(Currently so god damn busy writing my dissertation and working full time), I would love to address as I enjoyed programming this game however stressful it was to learn in a year how to build a solid starter game without prior experience in Unity and Coding and game design itself and it put me on a road to become a developer.
+these are some of the issues of my game and its Game Design, which , if given the time(Currently so god damn busy writing my dissertation and working full time), I would love to address as I enjoyed programming this game however stressful it was to learn in a year how to build a solid starter game without prior experience in Unity and Coding and game design. This project ignited my interest into seeing what Computer Science has to offer.
