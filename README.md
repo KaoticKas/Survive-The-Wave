@@ -1,4 +1,4 @@
-# TopDownWaveShooter
+# Survive The Wave
 #### *A game made for A levels which taught me how to use unity and implement the Astar algorithm*
 ###### Keywords; Pathfinding, TopDown shooter, Unity Game Engine and OOP
 
